@@ -62,7 +62,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 983234bc56d38d94a9e4f60c54ebaada, type: 2}
+  - {fileID: 2100000, guid: 102f2c0aa69d1234dae44e0a640659da, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -116,7 +116,7 @@ GameObject:
   - component: {fileID: 2027157066037920088}
   - component: {fileID: 3816145325929314727}
   m_Layer: 0
-  m_Name: taco_clipped
+  m_Name: DigiPen_Mascot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -150,4 +150,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3ed402af6c57ad4fa93dd9f409e70c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spinSpeed: 50
